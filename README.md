@@ -10,7 +10,7 @@ Whether you want to query data, insert records, update information, or analyze y
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features featuring strong unique solutions
 
 ### 💬 Natural Language Interface
 
